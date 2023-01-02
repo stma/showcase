@@ -1,4 +1,6 @@
 
 class Korte {
-    static void csak() {}
+    static void csak() {
+        // valamit megvalositok
+    }
 }
